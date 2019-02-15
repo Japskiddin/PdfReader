@@ -1,0 +1,28 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+Будет удалено .gitignore
+Будет удалено .idea/caches/
+Будет удалено .idea/codeStyles/
+Будет удалено .idea/gradle.xml
+Будет удалено .idea/misc.xml
+Будет удалено .idea/runConfigurations.xml
+Будет удалено app/.gitignore
+Будет удалено app/build.gradle
+Будет удалено app/libs/
+Будет удалено app/proguard-rules.pro
+Будет удалено app/src/
+Будет удалено build.gradle
+Будет удалено gradle.properties
+Будет удалено gradle/
+Будет удалено gradlew
+Будет удалено gradlew.bat
+Будет удалено settings.gradle
+Будет удалено app/fabric.properties
+Будет удалено fastlane/
+Будет удалено app/src/main/res/drawable-v24/
