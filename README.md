@@ -1,2 +1,2 @@
-"# PdfReader" 
+# PdfReader 
 Простой ридер PDf-файлов
